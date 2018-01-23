@@ -1,6 +1,6 @@
 # ds4s_RNASeq
 
-##Basic RNA_Seq pipeline
+## Basic RNA_Seq pipeline
 
 Python notebooks developed the OSU data science club for analysis of RNASeq data.
 

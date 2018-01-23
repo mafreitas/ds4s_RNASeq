@@ -1,0 +1,11 @@
+*.csv
+.ipynb_checkpoints/
+Log.out
+SraAccList.txt
+SraRunTable.txt
+combined.counts.txt
+combined.counts.txt.summary
+fastQC_output/
+fastqs/
+featureCount_output/
+star_output/

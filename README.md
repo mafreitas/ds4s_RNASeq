@@ -2,7 +2,7 @@
 
 ## Basic RNA_Seq pipeline
 
-Python notebooks developed the OSU data science club for analysis of RNASeq data.
+Python notebooks developed by the OSU data science club for analysis of RNASeq data.
 
 Adapted from the tutorial:
 

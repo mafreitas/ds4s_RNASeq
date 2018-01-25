@@ -6,6 +6,11 @@ SraRunTable.txt
 combined.counts.txt
 combined.counts.txt.summary
 fastQC_output/
+trimmed_fastQC_output/
 fastqs/
+trimmed_fastqs/
+paired_fastqs/
+trimmed_paired_fastqs/
 featureCount_output/
 star_output/
+data/
